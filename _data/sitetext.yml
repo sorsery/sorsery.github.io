@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Manodeep Sinha"
+      - name: "Kay Garland"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
